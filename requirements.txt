@@ -4,3 +4,6 @@ sqlalchemy
 pandas
 plotly
 ollama
+ollama pull mistral
+ollama pull llama3
+ollama pull phi3
